@@ -30,30 +30,42 @@ const Projects = () => {
                 Jobby App
             </h1>
             <p className="project-para">
-            Constructed an all-in-one job searching platform, Jobby App.<br/>
-            ●	Built pages for Login, Home, Jobs, and Job item details with React components, form inputs, and event handlers.<br/>
-            ●	Ensured secure authentication with JWT tokens and REST API calls.<br/>
-            ●	Persisted login state with local storage and protected routes with React Router.<br/>
-            <span className="technologies">Technologies used:</span> React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication.
+            Jobby App redefines job searching with seamless navigation, secure authentication, and persistent login state, all powered by React JS. This project showcases my ability to innovate and deliver user-centric solutions that set new standards in efficiency and accessibility.<br/>
+●	Built pages for Login, Home, Jobs, and Job item details with React components, form inputs, and event handlers.<br/>
+●	Implemented advanced security measures, including secure authentication mechanisms and persistent login state, to protect user data and privacy.<br/>
+●	Ensured secure authentication with JWT tokens and REST API calls.<br/>
+●	Seamless navigation between pages and facilitated real-time data exchange through efficient use of React Router and REST API calls.<br/>
+●	Persisted login state with local storage and protected routes with React Router.<br/>
+
+<span className="technologies">Technologies used:</span> React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication.
 
            
-            </p>
+    </p>
         </div>
         <img src="https://i.ibb.co/HVqz30S/icons8-job-seeker-64.png" alt="icons8-job-seeker-64" className="project-icon"/>
         </div>
         <div className="project-item">
-        <img src="https://i.ibb.co/G5dX6mW/mobile-video.png" alt="mobile-video" className="project-icon"/>
+        <img src="https://i.ibb.co/w484nVR/icons8-portfolio-80.png" alt="icons8-portfolio-80" className="project-icon" />
 
         <div className="detail-item">
             <h1 className="project-heading">
-                Nxt Watch Application
+                My-Portfolio
             </h1>
             <p className="project-para">
-            Developed the Nxt Watch platform, a YouTube-inspired application where users can access various video categories, such as Trending, Gaming, and Saved videos, and search for specific content while customising the visual theme.<br/>
-●	Crafted a responsive UI with React components for pages like Login, Home, Trending, Gaming, and Saved videos, utilising event handlers and form inputs.<br/>
-●	Established user authentication through username/password input and HTTP API calls, maintaining login state with JWT tokens and local storage.<br/>
-●	Enabled secure navigation using React Router components for protected routes, redirecting unauthenticated users to the login page.<br/>
-<span className="technologies">Technologies used:</span>React JS, JavaScript, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication.<br/>
+            Welcome to my portfolio project! Here, I showcase my passion for IT industry, through a collection of projects
+            and work samples that highlight my skills, creativity, and dedication to excellence,
+             showcasing not only my skills and creativity but also my relentless pursuit of innovation.<br/>
+
+
+•   Led the development of a comprehensive portfolio showcasing skills, projects, and personal information.<br/>
+•	Designed a welcoming homepage with a personal introduction and profile picture, enhancing user engagement.<br/>
+•	Developed an About Me page providing concise insights into educational background, skills, and personal details.<br/>
+•	Implemented a contact page with a user-friendly form for inquiries, utilizing React's useState hook for efficient form management.<br/>
+•	Created a header component for seamless navigation across pages, ensuring a cohesive user experience.<br/>
+•	Showcased projects with detailed descriptions and highlighted technologies used, demonstrating proficiency and expertise.<br/>
+•	Presented skills in a visually appealing format, utilizing icons and concise descriptions to enhance readability and impact.<br/>
+
+<span className="technologies">Technologies used:</span>React JS, JavaScript, CSS, Bootstrap, Routing, Event listeners.
 
 
             </p>
