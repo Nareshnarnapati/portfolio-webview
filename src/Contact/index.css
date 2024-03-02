@@ -53,40 +53,34 @@
     }
 
 @media only screen and (max-width: 768px) {
-    .contact-con {
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      padding: 20px;
+      .contact-con {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+      }
+      .input-text {
+        width: 80%; 
+        margin-bottom: 20px;
+        font-size: 16px;
+      }
+      .label {
+        font-size: 18px;
+        margin-bottom: 10px;
+      }
+      .contact-headng {
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+      .sub-btn {
+        width: auto;
+        height: auto;
+        font-size: 18px;
+        margin-bottom: 20px;
+      }
+      .cont-img {
+        width: 80%; 
+        border-radius: 10px;
+        margin-top: 20px;
+      }
     }
-  
-    .input-text {
-      width: 80%;
-      margin-bottom: 20px;
-      font-size: 16px;
-    }
-  
-    .label {
-      font-size: 18px;
-      margin-bottom: 10px;
-    }
-  
-    .contact-headng {
-      font-size: 24px;
-      margin-bottom: 20px;
-    }
-  
-    .sub-btn {
-      width: 50%;
-      height: 50px;
-      font-size: 18px;
-      margin-bottom: 20px;
-    }
-  
-    .cont-img {
-      width: 80%;
-      border-radius: 10px;
-      margin-top: 20px;
-    }
-  }
-  

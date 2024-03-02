@@ -7,28 +7,25 @@ const Header = () => {
     <nav className="nav">
       <div className="bg-con">
         <div>
-        <li >
-            <Link to="/" className="portopolio">Portfolio.</Link>
-          </li>
+          <Link to="/" className="portopolio">Portfolio.</Link>
         </div>
 
         <ul className="section">
-          <li >
+          <li>
             <Link to="/" className="heading">Home</Link>
           </li>
           <li>
             <Link to="/about" className="heading">About</Link>
           </li>
-          <li >
+          <li>
             <Link to="/skills" className="heading">Skills</Link>
           </li>
-          <li >
+          <li>
             <Link to="/projects" className="heading">Projects</Link>
           </li>
           <li>
             <Link to="/contact" className="heading">Contact</Link>
           </li>
-         
         </ul>
       </div>
     </nav>

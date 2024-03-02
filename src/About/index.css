@@ -6,6 +6,7 @@
     justify-content:space-between;
     position:relative;
     width:100vw;
+    height:100vh;
     overflow-x: auto;
    
 }
@@ -61,54 +62,44 @@
 
 
 
+
 @media only screen and (max-width: 768px) {
-    .about-bg {
-      padding: 20px;
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      width: 100%; 
-      overflow-x: hidden; 
-    }
-  
-    .about-img-container {
-      max-width: 80%;
-      margin-bottom: 20px;
-    }
-  
-    .about-img {
-      width: 100%;
-      height: auto;
-      border-radius: 10px;
-    }
-  
-    .discover,
-    .hed-2 {
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-  
-    .about-para {
-      font-size: 18px;
-      margin-bottom: 20px;
-      text-align: center;
-    }
-  
-    .key {
-      font-size: 18px;
-      margin-bottom: 5px;
-    }
-  
-    .value {
-      color: #6b46c1;
-    }
-  
-    .hire {
-      width: 200px;
-      height: 50px;
-      font-size: 18px;
-      margin-top: 20px;
-    }
+  .about-bg {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    overflow-x: hidden;
   }
-  
+  .about-img {
+    width: 80%; 
+    height: auto; 
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .discover,
+  .hed-2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .about-para {
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .key {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .value {
+    color: #6b46c1;
+  }
+  .hire {
+    width: auto;
+    height: auto;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+}
