@@ -10,11 +10,11 @@ const About = () => {
     <div className="about-bg">
        <div>
         
-        <img src="https://i.ibb.co/MnW28cr/About-img.jpg" alt="About" className="about-img"/>
+       <img src="https://i.ibb.co/DgnLRTH/about-porto.jpg" alt="about-porto" className="about-img"/>
         </div>
         <div>
-            <h1 className="discover">Discover</h1>
-            <h2 className="hed-2">About me</h2>
+            
+            <h1 className="hed-2">About me</h1>
             <p className="about-para">
                 Iam naresh,Iam from hyderabad.I completed my Bachelor of Science in 2022<br/>at T.J.P.S college
                 in Guntur.After completed my graduation I wanted to get into IT feiled.<br/>

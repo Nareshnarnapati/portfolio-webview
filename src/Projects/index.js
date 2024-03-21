@@ -42,10 +42,10 @@ const Projects = () => {
            
     </p>
         </div>
-        <img src="https://i.ibb.co/HVqz30S/icons8-job-seeker-64.png" alt="icons8-job-seeker-64" className="project-icon"/>
+        <img src="https://i.ibb.co/HVqz30S/icons8-job-seeker-64.png" alt="icons8-job-seeker-64" className="project-icon2"/>
         </div>
         <div className="project-item">
-        <img src="https://i.ibb.co/w484nVR/icons8-portfolio-80.png" alt="icons8-portfolio-80" className="project-icon" />
+        <img src="https://i.ibb.co/w484nVR/icons8-portfolio-80.png" alt="icons8-portfolio-80" className="project-icon3" />
 
         <div className="detail-item">
             <h1 className="project-heading">

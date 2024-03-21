@@ -63,11 +63,12 @@ const Contact = () => {
             className="input-text"
             onChange={onChangeEmail}
           />
+          <textarea className="text-area">Enter your message...</textarea>
           <Link to="/" onClick={handleSubmit}>
             <button className="sub-btn">Submit</button>
           </Link>
         </div>
-        <img src="https://i.ibb.co/N1Pg3xv/profile-pic.png" alt="profile-pic" className="cont-img" />
+        
       </div>
     </div>
   );

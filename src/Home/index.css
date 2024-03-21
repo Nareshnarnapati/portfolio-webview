@@ -13,7 +13,8 @@
     background-color:darkgrey;
     position:relative;
     width:100vw;
-    height:100vh;
+    height:100%;
+    position:absolute;
    
 
 }
@@ -26,9 +27,11 @@ p{
 }
 .img{
     width:450px;
-    height:470px;
-    border-radius:20px;
-    margin-left:0px;
+    height:450px;
+    margin:20px;
+    border-width:solid 2px;
+    border-color: yellowgreen;
+    
    
 }
 .button{

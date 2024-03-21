@@ -7,14 +7,19 @@
     position:relative;
     width:100vw;
     height:100vh;
-    overflow-x: auto;
+    
    
 }
 .about-img{
-    width:500px;
-    height:700px;
-    margin:20px;
+    width:490px;
+    height:650px;
     border-radius:15px;
+    margin:10px;
+    margin-top:10px;
+    border-style:solid;
+    border-width:2px;
+    
+    
 }
 .discover{
     font-size:25px;
@@ -30,12 +35,12 @@
     font-family: 'Franklin Gothic Medium';
 }
 .hed-2{
-    font-family: 'Lucida Sans Regular';
+    font-family: sans-serif;
     font-size:40px;
-    color:chocolate;
+    color:darkorange;
     font-weight:bold;
     text-decoration: underline;
-    text-decoration-color: black;
+    text-decoration-color: blueviolet;
 }
 .value{
     font-size:25px;
